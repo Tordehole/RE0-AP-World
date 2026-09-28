@@ -1,0 +1,11 @@
+{
+  "game": "Resident Evil 0",
+  "minimum_ap_version": "0.6.7",
+  "world_version": "0.1.0-split-client-test",
+  "authors": [
+    "Jon Peasgood",
+    "OpenAI prototype assistance"
+  ],
+  "version": 25,
+  "compatible_version": 19
+}
